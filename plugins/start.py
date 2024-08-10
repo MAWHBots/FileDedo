@@ -104,7 +104,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton('⚡️ ᴍᴏᴠɪᴇs', url='https://t.me/moviesandwebserieshubOrzz'),
-                    InlineKeyboardButton('🍁 Latest Uploads on TG', url='https://t.me/+gRJCrS6hpqZlYTg1')
+                    InlineKeyboardButton('🍁 Latest Uploads on TG', url='https://t.me/+nszwSFfkx2g5ZTZl')
                 ]
             ]
         )
